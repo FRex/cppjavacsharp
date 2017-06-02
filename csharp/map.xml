@@ -1,0 +1,3 @@
+<configuration>
+	<dllmap target="native.dll" dll="watisdis.dll"/>
+</configruation>
